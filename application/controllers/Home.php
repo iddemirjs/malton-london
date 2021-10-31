@@ -9,6 +9,6 @@ class Home extends Public_Controller
     }
     public function index()
     {
-        echo "OK";
+        echo "OK2";
     }
 }
